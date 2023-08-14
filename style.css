@@ -1,0 +1,53 @@
+
+.bg-intro{
+    background-image: linear-gradient(to right, #2C3333, #395b64);
+}
+.logo{
+    margin-left: 120px;
+}
+#name{
+    color:#F1F0E8;
+}
+.cv{
+    text-decoration: none;
+    color: #F1F0E8;
+}
+
+.lead{
+    color: #E7F6F2;
+}
+.rose{
+    color:#E7F6F2;
+}
+#skills{
+    margin-top: 100px ;
+}
+.skill-hd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: Justus Versalitas;
+    color: #395B64;
+}
+
+.title{
+    color: #395B64;
+    font-weight: normal;
+}
+.proj-container{
+    margin-top: 100px;
+}
+.row .card {
+    background-color: #395B64;
+    color: #E7F6F2;
+}
+.card-title{
+    text-align: center;
+}
+
+.cover-container{
+    text-align: center;
+    color: #2C3333;
+}
