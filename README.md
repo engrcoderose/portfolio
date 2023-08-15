@@ -1,2 +1,2 @@
 # portfolio
-Creating my personal portfolio using html, css, and bootstrap.
+Creating a draft of my personal portfolio using html, css, and bootstrap.
